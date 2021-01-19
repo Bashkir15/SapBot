@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "allowSyntheticDefaultImports": true,
+        "esModuleInterop": true,
+        "jsx": "preserve",
+        "module": "esnext",
+        "moduleResolution": "node",
+        "skipDefaultLibCheck": true,
+        "skipLibCheck": true,
+        "target": "esnext"
+    }
+}
